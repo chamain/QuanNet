@@ -6,6 +6,6 @@ python project files for the [paper](https://www.researchgate.net/profile/Lahiru
 3. We use the following simple trainable layer for QuanNet.
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/chamain/QuanNet/blob/master/images/quanblock.PNG "Quan block"
 
 
