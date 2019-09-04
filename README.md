@@ -8,11 +8,13 @@ python project files for the [paper](https://www.researchgate.net/profile/Lahiru
 
 [logo]: https://github.com/chamain/QuanNet/blob/master/images/quanblock.PNG "Quan block"
 
-4. Install the following dependencies.
+## Installation
+Download the python scripts from the repository.
+Install the following dependencies.
 ```
 pip install PyWavelets
 ```
-5. To train the network
+## Training
 ```
 python train.py
 ```
