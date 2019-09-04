@@ -16,5 +16,16 @@ pip install PyWavelets
 ```
 python train.py
 ```
-
+## Citation
+If you find our work useful in your research, please consider citing:
+```
+@inproceedings{chamain2019quannet,
+  title={Quannet: Joint Image Compression and Classification Over Channels with Limited Bandwidth},
+  author={Chamain, Lahiru D and Cheung, Sen-ching Samson and Ding, Zhi},
+  booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={338--343},
+  year={2019},
+  organization={IEEE}
+}
+```
 
