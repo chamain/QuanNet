@@ -10,7 +10,7 @@ python project files for the [paper](https://www.researchgate.net/profile/Lahiru
 
 4. Install the following dependencies.
 ```
-pip install pywavelets
+pip install PyWavelets
 ```
 5. To train the network
 ```
