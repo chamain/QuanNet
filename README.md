@@ -8,7 +8,11 @@ python project files for the [paper](https://www.researchgate.net/profile/Lahiru
 
 [logo]: https://github.com/chamain/QuanNet/blob/master/images/quanblock.PNG "Quan block"
 
-4. To train the network
+4. Install the following dependencies.
+```
+pip install pywavelets
+```
+5. To train the network
 ```
 python train.py
 ```
